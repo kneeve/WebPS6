@@ -1,0 +1,17 @@
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\bin\Debug\WebScrapeWPF.exe.config
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\bin\Debug\WebScrapeWPF.exe
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\bin\Debug\WebScrapeWPF.pdb
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF.csprojAssemblyReference.cache
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\App.g.cs
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF_MarkupCompile.cache
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF_MarkupCompile.lref
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\MainWindow.baml
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF.g.resources
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF.Properties.Resources.resources
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF.csproj.GenerateResource.cache
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF.exe
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF.pdb
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\bin\Debug\WebDriver.dll
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\bin\Debug\WebDriver.xml
+C:\Users\Kaelin\Documents\PS6\WebScrapeWPF\WebScrapeWPF\obj\Debug\WebScrapeWPF.csproj.CopyComplete

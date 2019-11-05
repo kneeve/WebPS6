@@ -1,0 +1,30 @@
+﻿<Window x:Class="WebScrapeWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebScrapeWPF"
+        mc:Ignorable="d"
+        Title="Web Scrapper" Height="600" Width="900">
+    <Grid>
+        <ComboBox x:Name="SemesterComboBox" HorizontalAlignment="Left" Margin="19,83,0,0" VerticalAlignment="Top" Width="115" RenderTransformOrigin="0.471,1.642">
+            <ComboBoxItem Content="Spring"/>
+            <ComboBoxItem Content="Summer"/>
+            <ComboBoxItem Content="Fall"/>
+        </ComboBox>
+        <Label Content="Semester" HorizontalAlignment="Left" Margin="19,48,0,0" VerticalAlignment="Top" FontSize="18"/>
+
+        <Label Content="Year" HorizontalAlignment="Left" Margin="214,49,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="YearTextbox" HorizontalAlignment="Left" Height="23" Margin="214,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="62" MaxLines="1" MaxLength="4"/>
+        <TextBox x:Name="ClassTextbox" HorizontalAlignment="Left" Height="155" Margin="19,338,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="272" MaxLength="100" MaxLines="10"/>
+        <Label Content="Enter Classes &#xD;&#xA;Ex: CS1410, CS2420" HorizontalAlignment="Left" Margin="19,280,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Button x:Name="SubmitButton" Content="Find Enrollments" HorizontalAlignment="Left" Margin="110,137,0,0" VerticalAlignment="Top" Width="119" Height="44" Click="SubmitButton_Click"/>
+        <TextBox x:Name="DataTextbox" HorizontalAlignment="Left" Height="508" Margin="332,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="551" IsReadOnly="True"/>
+        <Button x:Name="SaveButton" Content="Save Data" HorizontalAlignment="Left" Margin="790,523,0,0" VerticalAlignment="Top" Width="93" IsEnabled="False" Height="38" Click="SaveButton_Click"/>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="6" Margin="0,227,0,0" Stroke="Black" VerticalAlignment="Top" Width="332" Opacity="0.25"/>
+        <Button x:Name="DescButton" Content="Get Course Description" HorizontalAlignment="Left" Margin="92,503,0,0" VerticalAlignment="Top" Width="137" Height="47" Click="DescButton_Click"/>
+        <Label Content="Find CS Enrollments" HorizontalAlignment="Left" Margin="81,9,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Get Course Description(s)" HorizontalAlignment="Left" Margin="50,238,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
